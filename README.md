@@ -1,9 +1,9 @@
-# Your Project's Title...
+# Dru Kelly's Helix Website
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--my-helix-website--drukelly.hlx.page/
+- Live: https://main--my-helix-website--drukelly.hlx.live/
 
 ## Installation
 
