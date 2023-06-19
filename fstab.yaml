@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1hjRVF-FruaIeXAJtsFw7_nmn9F0fp3Cx
+  # 1. Google Drive
+  # /: https://drive.google.com/drive/u/0/folders/1hjRVF-FruaIeXAJtsFw7_nmn9F0fp3Cx
+  # 2. Sharepoint
+  /: https://adobe.sharepoint.com/:f:/r/sites/milo-academy/Shared%20Documents/dkelly
